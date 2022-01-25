@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Calculadora"),
+        title: const Text("Calculadora Flutter"),
       ), //AppBar
       backgroundColor: Colors.lightBlueAccent,
       body: Column(
